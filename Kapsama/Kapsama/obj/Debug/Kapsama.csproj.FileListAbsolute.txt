@@ -1,0 +1,9 @@
+C:\Users\TALHA\source\repos\Kapsama\Kapsama\bin\Debug\Kapsama.exe.config
+C:\Users\TALHA\source\repos\Kapsama\Kapsama\bin\Debug\Kapsama.exe
+C:\Users\TALHA\source\repos\Kapsama\Kapsama\bin\Debug\Kapsama.pdb
+C:\Users\TALHA\source\repos\Kapsama\Kapsama\obj\Debug\Kapsama.csprojAssemblyReference.cache
+C:\Users\TALHA\source\repos\Kapsama\Kapsama\obj\Debug\Kapsama.Form1.resources
+C:\Users\TALHA\source\repos\Kapsama\Kapsama\obj\Debug\Kapsama.Properties.Resources.resources
+C:\Users\TALHA\source\repos\Kapsama\Kapsama\obj\Debug\Kapsama.csproj.GenerateResource.cache
+C:\Users\TALHA\source\repos\Kapsama\Kapsama\obj\Debug\Kapsama.exe
+C:\Users\TALHA\source\repos\Kapsama\Kapsama\obj\Debug\Kapsama.pdb
